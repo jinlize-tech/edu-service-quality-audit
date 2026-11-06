@@ -1,0 +1,18 @@
+{
+  "product_id": "JLZ-EDU-SK-074",
+  "repository_name": "edu-service-quality-audit",
+  "product_type": "Skill",
+  "version": "1.0.0",
+  "package_path": "dist/edu-service-quality-audit-v1.0.0.zip",
+  "sha256": "5DA39DDE0A2DBCB3AAE0877153B3C39E2A40A15C1B60B9D89C8027E6C7E48E27",
+  "bytes": 4747,
+  "entries": [
+    "edu-service-quality-audit/SKILL.md",
+    "edu-service-quality-audit/references/DOMAIN_GUIDE.md",
+    "edu-service-quality-audit/references/EXAMPLES.md",
+    "edu-service-quality-audit/templates/OUTPUT_TEMPLATE.md"
+  ],
+  "built_at": "2026-11-06T22:46:10.7526844+08:00",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED"
+}

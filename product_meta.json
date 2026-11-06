@@ -1,0 +1,24 @@
+{
+  "number": 92,
+  "product_id": "JLZ-EDU-SK-074",
+  "chinese_name": "服务质量检查",
+  "english_name": "Service Quality Audit",
+  "repository_name": "edu-service-quality-audit",
+  "product_type": "Skill",
+  "category": "08 校区标准化与多校区管理中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-service-quality-audit-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "服务对象、服务标准、触点、样本、证据和投诉数据",
+  "main_output": "服务质量评分表、证据记录、问题分级、根因假设和整改建议",
+  "package_entries": [
+    "edu-service-quality-audit/SKILL.md",
+    "edu-service-quality-audit/references/DOMAIN_GUIDE.md",
+    "edu-service-quality-audit/references/EXAMPLES.md",
+    "edu-service-quality-audit/templates/OUTPUT_TEMPLATE.md"
+  ]
+}
