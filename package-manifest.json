@@ -2,17 +2,29 @@
   "product_id": "JLZ-EDU-SK-074",
   "repository_name": "edu-service-quality-audit",
   "product_type": "Skill",
-  "version": "1.0.0",
-  "package_path": "dist/edu-service-quality-audit-v1.0.0.zip",
-  "sha256": "5DA39DDE0A2DBCB3AAE0877153B3C39E2A40A15C1B60B9D89C8027E6C7E48E27",
-  "bytes": 4747,
+  "version": "1.0.1",
+  "package_path": "dist/edu-service-quality-audit-v1.0.1.zip",
+  "sha256": "02E2339717DE264F0E7951AED683602E3F68211D160E11D095E25DB19BE95294",
+  "bytes": 14245,
   "entries": [
     "edu-service-quality-audit/SKILL.md",
     "edu-service-quality-audit/references/DOMAIN_GUIDE.md",
     "edu-service-quality-audit/references/EXAMPLES.md",
-    "edu-service-quality-audit/templates/OUTPUT_TEMPLATE.md"
+    "edu-service-quality-audit/templates/OUTPUT_TEMPLATE.md",
+    "edu-service-quality-audit/README.md",
+    "edu-service-quality-audit/USAGE.md",
+    "edu-service-quality-audit/LICENSE",
+    "edu-service-quality-audit/THIRD_PARTY_NOTICES.md",
+    "edu-service-quality-audit/scripts/validate_input.js"
   ],
-  "built_at": "2026-11-06T22:46:10.7526844+08:00",
-  "status": "PACKAGE_READY",
-  "workbuddy_validation": "NOT_VERIFIED"
+  "license": "Apache-2.0",
+  "license_included": true,
+  "license_sha256": "CFC7749B96F63BD31C3C42B5C471BF756814053E847C10F3EB003417BC523D30",
+  "third_party_notice_included": true,
+  "previous_package_path": "dist/edu-service-quality-audit-v1.0.0.zip",
+  "previous_package_sha256": "5DA39DDE0A2DBCB3AAE0877153B3C39E2A40A15C1B60B9D89C8027E6C7E48E27",
+  "built_at": "2026-11-07T09:20:21.2587393+08:00",
+  "status": "GITHUB_PACKAGE_PRE_RELEASE_READY",
+  "runtime_status": "NOT_RUNTIME_VERIFIED",
+  "workbuddy_validation": "WORKBUDDY_VALIDATION_NOT_IN_SCOPE"
 }

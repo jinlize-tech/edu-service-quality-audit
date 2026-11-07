@@ -6,19 +6,37 @@
   "repository_name": "edu-service-quality-audit",
   "product_type": "Skill",
   "category": "08 校区标准化与多校区管理中心",
-  "version": "1.0.0",
-  "status": "PACKAGE_READY",
-  "workbuddy_validation": "NOT_VERIFIED",
+  "version": "1.0.1",
+  "previous_version": "1.0.0",
+  "g5_status": "G5_STRENGTHENED",
+  "status": "G9_PRE_RELEASE_ACCEPTED",
+  "package_state": "GITHUB_PACKAGE_PRE_RELEASE_READY",
+  "runtime_status": "NOT_RUNTIME_VERIFIED",
+  "workbuddy_validation": "WORKBUDDY_VALIDATION_NOT_IN_SCOPE",
   "license": "Apache-2.0",
   "baseline_tag": "education-product-baseline-v1.0.0",
-  "package_path": "dist/edu-service-quality-audit-v1.0.0.zip",
+  "baseline_commit": "d33d2b5e8f06ae3bff713a3d059263fd0c248f79",
+  "package_path": "dist/edu-service-quality-audit-v1.0.1.zip",
+  "previous_package_path": "dist/edu-service-quality-audit-v1.0.0.zip",
+  "previous_package_sha256": "5DA39DDE0A2DBCB3AAE0877153B3C39E2A40A15C1B60B9D89C8027E6C7E48E27",
   "calculator": false,
   "core_input": "服务对象、服务标准、触点、样本、证据和投诉数据",
   "main_output": "服务质量评分表、证据记录、问题分级、根因假设和整改建议",
+  "main_output_fields": [
+    "服务质量评分表",
+    "证据记录",
+    "问题分级",
+    "根因假设和整改建议"
+  ],
   "package_entries": [
     "edu-service-quality-audit/SKILL.md",
     "edu-service-quality-audit/references/DOMAIN_GUIDE.md",
     "edu-service-quality-audit/references/EXAMPLES.md",
-    "edu-service-quality-audit/templates/OUTPUT_TEMPLATE.md"
+    "edu-service-quality-audit/templates/OUTPUT_TEMPLATE.md",
+    "edu-service-quality-audit/README.md",
+    "edu-service-quality-audit/USAGE.md",
+    "edu-service-quality-audit/LICENSE",
+    "edu-service-quality-audit/THIRD_PARTY_NOTICES.md",
+    "edu-service-quality-audit/scripts/validate_input.js"
   ]
 }
